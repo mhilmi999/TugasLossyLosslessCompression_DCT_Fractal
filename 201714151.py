@@ -6,7 +6,7 @@ import math
 import sys
 import imageio
 
-img = Image.open('hilmi2.jpg')
+img = Image.open('hilmi.gif')
 
 dct_blockList = []
 
@@ -405,7 +405,7 @@ def runLength2bytes(code):
 
 # 3-a Hasil kompresi sebelum dan sesudah
 code = ""
-gambar = imageio.imread('original_image.jpeg')
+gambar = imageio.imread('hilmi.gif')
 gambar2 = imageio.imread('3(a)_reconstruct_image.jpg')
 print("Rasio Kompresi 3 - a dengan gambar asli:                    %.2f : 1" %
       (gambar.size/2**20/(gambar2.size/2**20)))  # perhitungan kompresi gambar
@@ -440,7 +440,7 @@ print("Rasio Kompresi 3 - e dengan 3 - d :                         %.2f : 1" %
 
 # 3-e Hasil kompresi sebelum dan sesudah
 code = ""
-gambar11 = imageio.imread('original_image.jpeg')
+gambar11 = imageio.imread('hilmi.gif')
 gambar12 = imageio.imread('3(e)_reconstruct_image.jpg')
 print("Rasio Kompresi akhir dengan gambar asli :                   %.2f : 1" %
       (gambar11.size/2**20/(gambar12.size/2**20)))  # perhitungan kompresi gambar

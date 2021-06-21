@@ -1,0 +1,21 @@
+3-(a) MSE reult : 5.86456298828125
+3-(b) MSE reult : 62.08003234863281
+3-(c) MSE reult : 44.88481140136719
+3-(d) MSE reult : 33.13795471191406
+3-(e) MSE reult : 30.377960205078125
+3-(A) PSNR result : 40.44844705686472(dB)
+3-(B) PSNR result : 30.20128426315764(dB)
+3-(C) PSNR result : 31.609809561789604(dB)
+3-(D) PSNR result : 32.927546607900496(dB)
+3-(E) PSNR result : 33.305217520198795(dB)
+3-(A) SNR result : 10.37944318802449(dB)
+3-(B) SNR result : 0.13228039431740526(dB)
+3-(C) SNR result : 1.5408056929493705(dB)
+3-(D) SNR result : 2.858542739060268(dB)
+3-(E) SNR result : 3.236213651358563(dB)
+Rasio Kompresi 3 - a dengan gambar asli:                    1.00 : 1
+Rasio Kompresi 3 - b dengan 3 - a :                         1.00 : 1
+Rasio Kompresi 3 - c dengan 3 - b :                         1.00 : 1
+Rasio Kompresi 3 - d dengan 3 - c :                         1.00 : 1
+Rasio Kompresi 3 - e dengan 3 - d :                         1.00 : 1
+Rasio Kompresi akhir dengan gambar asli :                   1.00 : 1
